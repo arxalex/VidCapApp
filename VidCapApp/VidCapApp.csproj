@@ -166,9 +166,6 @@
       <Name>BackgroundTask</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <None Include="VidCapApp_TemporaryKey.pfx" />
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
